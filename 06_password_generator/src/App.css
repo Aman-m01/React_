@@ -1,0 +1,12 @@
+* {
+  font-family: monospace;
+  color: rgb(6, 152, 243);
+}
+
+body {
+  font-size: 1.4rem;
+  }
+
+button:hover {
+  font-size: 1.5rem;
+}
